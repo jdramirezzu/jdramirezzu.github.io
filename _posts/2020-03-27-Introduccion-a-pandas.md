@@ -1,7 +1,10 @@
 ---
-layout: post
+layout: page
 title: Introducción a pandas
+date: 2020-03-27 11:25:00 
+
 ---
+
 **1.** Filtrar columnas: Se llama el indice y se especifica en una lista, las columnas que se quieren. 
 
 		Df[['columna1', 'columna2']]
