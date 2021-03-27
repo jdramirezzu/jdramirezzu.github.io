@@ -25,4 +25,5 @@ title: Introducción a pandas
 **5.** Eliminar duplicados 
 ```
             df.drop_duplicates()
-```
+	   
+Pandas permite que se lleven a cabo diferentes formas de guardar los datos
